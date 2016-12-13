@@ -1,4 +1,4 @@
 # **Charta for Building a Data Commons of Alternative Economies**
 
-Version 0.4
+Version 0.5
 
