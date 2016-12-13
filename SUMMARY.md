@@ -1,3 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Readme](README.md)
+* [Principles](principles.md)
+

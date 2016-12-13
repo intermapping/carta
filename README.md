@@ -1,3 +1,10 @@
-# My Awesome Book
+# Mapping as a Commons
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+manifesto
+
+> See the introduction on why these principles are necessary, how they came about and what they are for here:
+>
+> [https://commonsblog.wordpress.com/2016/09/25/mapping-as-a-commons/](https://commonsblog.wordpress.com/2016/09/25/mapping-as-a-commons/)
+
+
+
